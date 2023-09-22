@@ -2,50 +2,50 @@ export const homeAbout = [
   {
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Verimlilik",
+    desc: "Uzman Kadromuzla, zengin materyallerimizle Almanca derslerimiz interaktif olarak çok verimli geçmektedir.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Başarı",
+    desc: "Bizimle beraber yola çıkan binlerce öğrenci Almanca'yla ilgili hedeflerine başarıyla ulaşmışlardır",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-    title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Özgüven",
+    desc: "Uzman kadromuzun verdiği kaliteli eğitimle, gelen kursiyerlerin is hayatında ve günlük hayatta Almanca ile ilgili özgüvenleri artmıştır.",
   },
 ]
 export const awrapper = [
   {
     cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
-    data: "3,000",
-    title: "SUCCESS STORIES",
+    data: "1,000+",
+    title: "ÖĞRENCİ",
   },
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
-    title: "TRUSTED TUTORS",
+    data: "100+",
+    title: "DÖNEM",
   },
   {
     cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
-    data: "1,000",
-    title: "SCHEDULES",
+    data: "100+",
+    title: "ALIŞTIRMA",
   },
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-    data: "587",
-    title: "COURSES",
+    data: "100+",
+    title: "DERS",
   },
 ]
 export const coursesCard = [
   {
     id: 1,
     cover: "../images/courses/c1.png",
-    coursesName: "Introducing to Software Engineering",
+    coursesName: "Almanca A1 Kursu",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -55,11 +55,14 @@ export const coursesCard = [
     ],
     priceAll: "$100 All Course",
     pricePer: "$15 per month",
+    el1:"- Haftada 3 gün,",
+    el2:"- Toplamda 8 Hafta",
+    el3:"- 75 Ders Saati",
   },
   {
     id: 2,
     cover: "../images/courses/c2.png",
-    coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
+    coursesName: "Almanca A2 Kursu",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -69,11 +72,14 @@ export const coursesCard = [
     ],
     priceAll: "$200 All Course",
     pricePer: "$25 per month",
+    el1:"- Haftada 3 gün,",
+    el2:"- Toplamda 8 Hafta",
+    el3:"- 75 Ders Saati",
   },
   {
     id: 3,
     cover: "../images/courses/c3.png",
-    coursesName: "HTML, CSS, and Javascript for Web Developers",
+    coursesName: "Almanca B1 Kursu",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -83,11 +89,14 @@ export const coursesCard = [
     ],
     priceAll: "$50 All Course",
     pricePer: "$5 per month",
+    el1:"- Haftada 3 gün,",
+    el2:"- Toplamda 10 Hafta",
+    el3:"- 90 Ders Saati",
   },
   {
     id: 4,
     cover: "../images/courses/c4.png",
-    coursesName: "Introducing to Programming with WordPress",
+    coursesName: "Almanca B2 Kuru",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -97,6 +106,9 @@ export const coursesCard = [
     ],
     priceAll: "$30 All Course",
     pricePer: "$3 per month",
+    el1:"- Haftada 3 gün,",
+    el2:"- Toplamda 10 Hafta",
+    el3:"- 90 Ders Saati",
   },
   {
     id: 5,
@@ -173,75 +185,39 @@ export const online = [
   {
     cover: "./images/courses/online/o1.png",
     hoverCover: "./images/courses/online/o1.1.png",
-    courseName: "UI/UX Design Courses",
+    courseName: "Etkili Öğrenme",
     course: "25 Courses",
   },
   {
     cover: "./images/courses/online/o2.png",
     hoverCover: "./images/courses/online/o2.1.png",
-    courseName: "Art & Design",
+    courseName: "İnteraktif",
     course: "25 Courses",
   },
   {
     cover: "./images/courses/online/o3.png",
     hoverCover: "./images/courses/online/o3.1.png",
-    courseName: "Computer Science",
+    courseName: "Pratik",
     course: "10 Courses",
   },
   {
     cover: "./images/courses/online/o4.png",
     hoverCover: "./images/courses/online/o4.1.png",
-    courseName: "History & Archeologic",
+    courseName: "Metot",
     course: "15 Courses",
   },
   {
     cover: "./images/courses/online/o5.png",
     hoverCover: "./images/courses/online/o5.1.png",
-    courseName: "Software Engineering",
+    courseName: "Dijital Kaynaklar",
     course: "30 Courses",
   },
   {
     cover: "./images/courses/online/o6.png",
     hoverCover: "./images/courses/online/o6.1.png",
-    courseName: "Information Software",
+    courseName: "İletişim",
     course: "60 Courses",
-  },
-  {
-    cover: "./images/courses/online/o7.png",
-    hoverCover: "./images/courses/online/o7.1.png",
-    courseName: "Health & Fitness",
-    course: "10 Courses",
-  },
-  {
-    cover: "./images/courses/online/o8.png",
-    hoverCover: "./images/courses/online/o8.1.png",
-    courseName: "Marketing",
-    course: "30 Courses",
-  },
-  {
-    cover: "./images/courses/online/o9.png",
-    hoverCover: "./images/courses/online/o9.1.png",
-    courseName: "Graphic Design",
-    course: "80 Courses",
-  },
-  {
-    cover: "./images/courses/online/o10.png",
-    hoverCover: "./images/courses/online/o10.1.png",
-    courseName: "Music",
-    course: "120 Courses",
-  },
-  {
-    cover: "./images/courses/online/o11.png",
-    hoverCover: "./images/courses/online/o11.1.png",
-    courseName: "Business Administration",
-    course: "17 Courses",
-  },
-  {
-    cover: "./images/courses/online/o12.png",
-    hoverCover: "./images/courses/online/o12.1.png",
-    courseName: "Web Management",
-    course: "17 Courses",
-  },
+  }
 ]
 export const team = [
   {
@@ -340,7 +316,7 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "Almanca 'da en kısa sürede hedeflerinize ulaşmak için doğru adrestesiniz.",
     cover: "../images/blog/b1.webp",
   },
   {
@@ -349,7 +325,7 @@ export const blog = [
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "Almanca 'da en kısa sürede hedeflerinize ulaşmak için doğru adrestesiniz.",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -358,7 +334,7 @@ export const blog = [
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "Almanca 'da en kısa sürede hedeflerinize ulaşmak için doğru adrestesiniz.",
     cover: "../images/blog/b3.webp",
   },
   {
@@ -367,7 +343,7 @@ export const blog = [
     date: "JAN. 02, 2022",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "Almanca 'da en kısa sürede hedeflerinize ulaşmak için doğru adrestesiniz.",
     cover: "../images/blog/b4.webp",
   },
   {
@@ -376,7 +352,7 @@ export const blog = [
     date: "DEC. 14, 2022",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "Almanca 'da en kısa sürede hedeflerinize ulaşmak için doğru adrestesiniz.",
     cover: "../images/blog/b5.webp",
   },
   {
@@ -385,30 +361,30 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "12 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "Almanca 'da en kısa sürede hedeflerinize ulaşmak için doğru adrestesiniz.",
     cover: "../images/blog/b6.webp",
   },
 ]
 export const testimonal = [
   {
     id: 1,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    name: "Cansu KANPARA",
+    post: "Fizyoterapist",
+    desc: "- 8 ay gibi kısa bir sürede hem iyi bir seviyede Almanca öğrendim, hem de TELC B2 Dil Sertifikası aldım. Başarımda katkısı bulunan Sait Hocama ve Salih Hocama çok teşekkür ediyorum.",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    name: "İsmet ÖZSOY",
+    post: "Eğitimci",
+    desc: "- Çok kısa sürede A2 TELC sınavına Sait Hocam ile çalıştım. İyi bir puanla başarı elde ettim.Emeklerinden dolayı Sait Hocama minnettarım.",
     cover: "./images/testo/t2.webp",
   },
   {
     id: 3,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    name: "Nesibe SOYDAN",
+    post: "Öğrenci",
+    desc: "- A1 ve A2 kurunu Sait Hocadan, B1 kurunu Salih Hocamdan aldım. Şuanda Almanya'da üniversite eğitimime devam ediyorum. Almış olduğum kaliteli eğitim sayesinde derslerime ve günlük hayata çok çabuk adapte oldum.",
     cover: "./images/testo/t3.webp",
   },
 ]
