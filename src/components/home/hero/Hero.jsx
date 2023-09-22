@@ -8,14 +8,14 @@ const Hero = () => {
       <section className='hero'>
         <div className='container'>
           <div className='row'>
-            <Heading subtitle='WELCOME TO ACADEMIA' title='Best Online Education Expertise' />
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <Heading subtitle="IST.AKEMİ'YE HOŞGELDİNİZ" title='Almancayı Öğrenmek İçin En Doğru Adres!' />
+            <p>Uzman Kadro ile Binlerce Başarı Hikayesinde Sen de Yerini Al</p>
             <div className='button'>
               <button className='primary-btn'>
-                GET STARTED NOW <i className='fa fa-long-arrow-alt-right'></i>
+                Hemen Başla <i className='fa fa-long-arrow-alt-right'></i>
               </button>
               <button>
-                VIEW COURSE <i className='fa fa-long-arrow-alt-right'></i>
+                Dersleri Gör<i className='fa fa-long-arrow-alt-right'></i>
               </button>
             </div>
           </div>

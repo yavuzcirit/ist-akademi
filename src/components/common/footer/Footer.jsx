@@ -6,23 +6,14 @@ const Footer = () => {
   return (
     <>
       <section className='newletter'>
-        <div className='container flexSB'>
-          <div className='left row'>
-            <h1>Newsletter - Stay tune and get the latest update</h1>
-            <span>Far far away, behind the word mountains</span>
-          </div>
-          <div className='right row'>
-            <input type='text' placeholder='Enter email address' />
-            <i className='fa fa-paper-plane'></i>
-          </div>
-        </div>
+     
       </section>
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ACADEMIA</h1>
-            <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <h1>İST.AKADEMİ</h1>
+            <span>ALMANCA EĞİTİM</span>
+            <p>Almanca'da hedeflerinize en kısa sürede ulaşmak için doğru adrestesiniz.</p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>

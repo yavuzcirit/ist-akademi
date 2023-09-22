@@ -47,7 +47,7 @@
 }
 /*----------awrapper------------*/
 .awrapper {
-  background-image: url("../../../public/images/awrapper.webp");
+  background:#1eb2a6;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
