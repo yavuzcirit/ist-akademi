@@ -18,16 +18,16 @@ const Contact = () => {
 
             <div className='items grid2'>
               <div className='box'>
-                <h4>ADDRESS:</h4>
-                <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                <h4>Adres :</h4>
+                <p>İstanbul / Türkiye</p>
               </div>
               <div className='box'>
-                <h4>EMAIL:</h4>
-                <p> info@yoursite.com</p>
+                <h4>E-posta :</h4>
+                <p> ist.akademi34@gmail.com</p>
               </div>
               <div className='box'>
-                <h4>PHONE:</h4>
-                <p> + 1235 2355 98</p>
+                <h4>Telefon :</h4>
+                <p>+90 542 206 65 34</p>
               </div>
             </div>
 

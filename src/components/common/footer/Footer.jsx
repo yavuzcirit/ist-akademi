@@ -61,19 +61,19 @@ const Footer = () => {
             ))}
           </div>
           <div className='box last'>
-            <h3>Have a Questions?</h3>
+            <h3>Sorunuz mu var?</h3>
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                İstanbul / Türkiye
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                +90 542 206 65 34
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                ist.akademi34@gmail.com
               </li>
             </ul>
           </div>
