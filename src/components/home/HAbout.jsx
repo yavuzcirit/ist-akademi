@@ -36,7 +36,7 @@ const HAbout = () => {
                       </div>
                     </div>
                   </div>
-                  <button className='outline-btn'>İLETİŞİME GEÇ</button>
+                  <a href="https://wa.me/+905422066534?text=Hello%20from%20your%20website!" target="_blank"> <button className='outline-btn'>İLETİŞİME GEÇ</button></a>
                 </div>
               ))}
             </div>
